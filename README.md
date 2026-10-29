@@ -9,6 +9,7 @@ CREATE DATABASE library;
 USE library;
 
 If your project already has a database with tables such as student, users, and book, use that existing database name instead of creating a new one.
+
 Step 2: Add the MySQL JDBC driver
 In NetBeans, if your project uses a standard Java project:
 1. Right-click your project.
